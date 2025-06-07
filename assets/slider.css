@@ -1,0 +1,8 @@
+/* assets/slider.css */
+.dash-range-slider .rc-slider-mark-text {
+  transform: rotate(90deg);
+  transform-origin: top left;
+  white-space: nowrap;
+  margin-left: 8px;
+  margin-top: -10px;
+}
